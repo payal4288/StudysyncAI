@@ -1,0 +1,2 @@
+# StudysyncAI
+AI PROJECT 
